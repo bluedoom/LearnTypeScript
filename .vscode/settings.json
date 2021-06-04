@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/*.js: { \"when\": \"$(basename).ts\" }": true
+    },
+    "typescript.tsdk": "C:/Users/bluedoom/AppData/Roaming/npm/node_modules/typescript/lib"
+}
